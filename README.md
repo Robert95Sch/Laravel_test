@@ -1,6 +1,6 @@
 
 
-# Demo Laravel App for Deploy Now
+# Demo Laravel App for Deploy Now test
 
 ## What to do to make in running on Deploy now?
 1. If you don't have one - create a free [Deploy Now account](https://www.ionos.com/hosting/deploy-now) You won't regret it - promised! :hand:
